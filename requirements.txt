@@ -1,0 +1,5 @@
+numpy==1.23.5
+vmas==1.2.12
+wandb
+torch
+torch_geometric
